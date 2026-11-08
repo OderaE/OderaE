@@ -46,3 +46,12 @@
   <br><br>
   <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=OderaE&icon=0&color=3670A0&style=flat-square" /></a>
 </div>
+
+---
+<br>
+
+<br>
+
+<div align="center">
+  <sub><i>Note: The statistics displayed above only reflect public contributions and do not include my work in private repositories.</i></sub>
+</div>
