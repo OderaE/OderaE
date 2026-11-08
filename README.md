@@ -15,6 +15,10 @@
       I am a first-year graduate student at Boston University studying Computer Science & Artificial Intelligence. <br><br>
       My background spans software engineering and cloud infrastructure. I've designed custom solutions for clients' software systems at F5, and supported global low-level application networking, server performance, and architectural best-practices at AWS.<br><br>
       <b>Current Focus:</b> Systems programming in C, Machine Learning, RDMA, and AI Infrastructure optimization.
+      <br><br>
+      <a href="https://github.com/oderae/oderae/blob/main/Odera%20Resume%2026.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/-View_My_Resume-3670A0?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View My Resume" />
+      </a>
     </td>
     <td width="30%" valign="top" align="center">
       <h2>💻 Tech Stack</h2>
@@ -48,8 +52,6 @@
 </div>
 
 ---
-<br>
-
 <br>
 
 <div align="center">
