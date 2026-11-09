@@ -35,10 +35,10 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <!-- Made stats transparent, borderless, and aligned them cleanly -->
-  <img src="https://github-readme-stats.shion.dev/api?username=OderaE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=3670A0&text_color=777777" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OderaE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=3670A0&text_color=777777" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=oderae&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=3670A0&text_color=777777" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=oderae&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=3670A0&text_color=777777" width="48%" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=OderaE&theme=transparent&hide_border=true&title_color=3670A0&text_color=777777" />
+  <img src="https://streak-stats.demolab.com/?user=oderae&theme=transparent&hide_border=true&title_color=3670A0&text_color=777777&v=1" />
 </div>
 
 <br>
@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/oeneugwu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:beneugwu.engr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br><br>
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=OderaE&icon=0&color=3670A0&style=flat-square" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=oderae&icon=0&color=3670A0&style=flat-square" /></a>
 </div>
 
 ---
